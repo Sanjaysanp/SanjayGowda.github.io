@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Sanjay Gowda Blog 
 
 You can use the [editor on GitHub](https://github.com/Sanpme66/SanjayGowda.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
